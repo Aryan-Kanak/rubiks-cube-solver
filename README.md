@@ -1,5 +1,8 @@
 # Rubik's Cube Solver
 This program, written in C++ using the GLFW, GLEW, and GLM libraries, will simulate and solve a Rubik's cube.
+## Screenshots
+![scrambled](https://github.com/Aryan-Kanak/images/blob/main/scrambled.png?raw=true)
+![solved](https://github.com/Aryan-Kanak/images/blob/main/solved.png?raw=true)
 ## Setup
 In order to run this program, the user must have the [GLFW](https://www.glfw.org/), [GLEW](http://glew.sourceforge.net/), and [GLM](https://github.com/g-truc/glm) libraries downloaded and linked.
 ## Controls
